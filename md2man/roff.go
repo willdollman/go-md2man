@@ -6,7 +6,7 @@ import (
 	"html"
 	"strings"
 
-	"github.com/russross/blackfriday"
+	"github.com/willdollman/blackfriday"
 )
 
 type roffRenderer struct{}

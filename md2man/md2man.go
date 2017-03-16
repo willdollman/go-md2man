@@ -1,7 +1,7 @@
 package md2man
 
 import (
-	"github.com/russross/blackfriday"
+	"github.com/willdollman/blackfriday"
 )
 
 func Render(doc []byte) []byte {
