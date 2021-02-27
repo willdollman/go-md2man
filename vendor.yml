@@ -1,5 +1,5 @@
 vendors:
 - path: github.com/willdollman/blackfriday
-  rev: f4501810670d7281b1b418840c16c63d1173e753
+  rev: b2a7d4ef05080f68e7678eecec381a408096f143
 - path: github.com/shurcooL/sanitized_anchor_name
   rev: 10ef21a441db47d8b13ebcc5fd2310f636973c77
